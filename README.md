@@ -1,10 +1,6 @@
-<!-- =============== NOBITA PROFILE HEADER =============== -->
-
 <div align="center">
 
-<img src="https://wallpapers.com/images/hd/shizuka-doraemon-and-nobita-under-umbrella-ak41ovw4i56rdyfa.jpg"
-width="100%"
-alt="Nobita and Shizuka Anime Banner" />
+![Nobita and Shizuka](https://wallpapers.com/images/hd/shizuka-doraemon-and-nobita-under-umbrella-ak41ovw4i56rdyfa.jpg)
 
 <br/>
 
@@ -22,8 +18,6 @@ alt="Nobita and Shizuka Anime Banner" />
 
 ---
 
-<!-- =============== ABOUT ME =============== -->
-
 ## 👨‍💻 About Me
 
 Hello! I'm **Nobita**.
@@ -39,8 +33,6 @@ I'm passionate about technology, software development, computer science and cybe
 
 ---
 
-<!-- =============== TECH STACK =============== -->
-
 ## 💻 Languages & Technologies
 
 <div align="center">
@@ -51,8 +43,6 @@ I'm passionate about technology, software development, computer science and cybe
 
 ---
 
-<!-- =============== DEVELOPMENT TOOLS =============== -->
-
 ## 🛠️ Development Tools
 
 <div align="center">
@@ -62,8 +52,6 @@ I'm passionate about technology, software development, computer science and cybe
 </div>
 
 ---
-
-<!-- =============== COMPUTER SCIENCE =============== -->
 
 ## 🎓 Computer Science
 
@@ -76,8 +64,6 @@ I'm passionate about technology, software development, computer science and cybe
 
 ---
 
-<!-- =============== CYBERSECURITY =============== -->
-
 ## 🔐 Cybersecurity Journey
 
 - Linux Command Line
@@ -88,8 +74,6 @@ I'm passionate about technology, software development, computer science and cybe
 - Online Safety and Digital Security
 
 ---
-
-<!-- =============== GITHUB STATISTICS =============== -->
 
 ## 📊 GitHub Statistics
 
@@ -105,8 +89,6 @@ I'm passionate about technology, software development, computer science and cybe
 
 ---
 
-<!-- =============== GITHUB STREAK =============== -->
-
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -117,8 +99,6 @@ I'm passionate about technology, software development, computer science and cybe
 
 ---
 
-<!-- =============== CONTRIBUTION GRAPH =============== -->
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -128,8 +108,6 @@ I'm passionate about technology, software development, computer science and cybe
 </div>
 
 ---
-
-<!-- =============== MY GOALS =============== -->
 
 ## 🎯 My Goals
 
@@ -142,8 +120,6 @@ I'm passionate about technology, software development, computer science and cybe
 
 ---
 
-<!-- =============== PROFILE VISITORS =============== -->
-
 ## 👀 Profile Visitors
 
 <div align="center">
@@ -154,19 +130,9 @@ I'm passionate about technology, software development, computer science and cybe
 
 ---
 
-<!-- =============== IMAGE CREDIT =============== -->
-
 <div align="center">
 
-Artwork source: [Nobita & Shizuka Wallpaper](https://wallpapers.com/wallpapers/shizuka-doraemon-and-nobita-under-umbrella-ak41ovw4i56rdyfa.html)
-
-</div>
-
----
-
-<!-- =============== FOOTER =============== -->
-
-<div align="center">
+Artwork: [Nobita & Shizuka Wallpaper](https://wallpapers.com/wallpapers/shizuka-doraemon-and-nobita-under-umbrella-ak41ovw4i56rdyfa.html)
 
 ### 💙 Code. Learn. Explore. Secure.
 
@@ -175,3 +141,5 @@ Artwork source: [Nobita & Shizuka Wallpaper](https://wallpapers.com/wallpapers/s
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=120&section=footer" />
 
 </div>
+
+
