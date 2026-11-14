@@ -1,19 +1,19 @@
+```markdown
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1751134246879-4b7dd02b7d82?auto=format&fit=crop&w=1800&q=85" width="100%" alt="Person walking through futuristic blue tunnel" />
+<img src="https://media1.tenor.com/m/QaNS1gOiNXAAAAAd/doraemon-nobita.gif" width="100%" />
+
+# 🔵 NOBITA'S DIGITAL WORLD
+
+### 夢を追いかける | Dream • Create • Build
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=900&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+Nobita's+World;Inspired+by+Doraemon+%F0%9F%92%99;Developer+in+Progress;Dream+Big.+Build+Something+Amazing." />
 
 <br/>
 
-# N O B I T A
-
-### SOFTWARE DEVELOPMENT • TECHNOLOGY • CREATIVITY
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Reality.;Building+Digital+Experiences.;Learning+Something+New+Every+Day.;Think.+Create.+Build." alt="Typing animation" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/DEVELOPER-IN%20PROGRESS-0F172A?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/BASED-ON%20CURIOSITY-1D4ED8?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/Doraemon%20World-00BFFF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Developer-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Always%20Learning-FFD700?style=for-the-badge&logoColor=black" />
 
 </div>
 
@@ -21,129 +21,159 @@
 
 <div align="center">
 
-## 01 — THE VISION
+## 🌏 WELCOME TO MY WORLD
 
-### DREAM BIGGER. THINK DEEPER.
+<img src="https://media1.tenor.com/m/piukPnxZ8BAAAAAd/doraemon-nobita.gif" width="75%" />
 
-<img src="https://images.unsplash.com/photo-1753134905703-9c2122f7a237?auto=format&fit=crop&w=1600&q=85" width="100%" alt="Person sitting at a futuristic architectural structure" />
+### "Every great journey begins with a dream."
 
-</div>
-
-## ABOUT ME
-
-I'm **Nobita**, an aspiring developer exploring the intersection of technology, creativity and computer science.
-
-I enjoy understanding how things work, experimenting with code and turning ideas into practical projects.
-
-- Software and Web Development
-- Computer Science Fundamentals
-- Python and JavaScript
-- Linux and Networking
-- Cybersecurity Fundamentals
-- Continuous Learning
-
----
-
-<div align="center">
-
-## 02 — THE DIGITAL WORLD
-
-<img src="https://images.unsplash.com/photo-1741795990628-7ec99d7d2044?auto=format&fit=crop&w=1800&q=85" width="100%" alt="Abstract 3D blue digital light trails" />
-
-### CREATE WITHOUT LIMITS.
-
-</div>
-
-## TECHNOLOGY STACK
-
-<div align="center">
-
-### LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" />
-
-<br/><br/>
-
-### TOOLS & PLATFORMS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows&theme=dark" />
+Welcome to my little corner of the internet.
+A place where creativity meets technology,
+and imagination turns into code.
 
 </div>
 
 ---
 
+## 💙 ABOUT ME
+
+<img align="right" src="https://media1.tenor.com/m/f9GoOKSs3g8AAAAd/hello-doraemon.gif" width="180" />
+
+- 👋 Hi, I'm **Nobita**.
+- 💻 I'm exploring the world of programming.
+- 🚀 I love building creative digital experiences.
+- 🎨 Interested in design, technology and development.
+- 🌱 Always learning something new.
+- 💙 Inspired by the world of Doraemon.
+
+<br clear="right"/>
+
+---
+
 <div align="center">
 
-## 03 — THE PROCESS
+## 🧑‍🤝‍🧑 THE DORAEMON CREW
 
-### LEARN. EXPERIMENT. BUILD.
+*Every adventure is better with friends.*
 
-<img src="https://images.unsplash.com/photo-1780233880617-04840e1b0480?auto=format&fit=crop&w=1800&q=85" width="100%" alt="Abstract 3D blue neon light artwork" />
+<img src="https://media1.tenor.com/m/Zx9lADqGh8oAAAAd/doraemon-nobita.gif" width="80%" />
+
+| Character | The Vibe |
+|:---:|:---|
+| 🔵 Doraemon | The ultimate problem solver |
+| 👓 Nobita | The dreamer |
+| 🌸 Shizuka | Kindness and positivity |
+| 💪 Gian | Confidence and courage |
+| 😎 Suneo | Style and creativity |
+| 💛 Dorami | Smart ideas and support |
 
 </div>
 
-## CURRENT FOCUS
+---
 
-| DOMAIN | EXPLORATION |
+## ⚡ MY TECH WORLD
+
+<div align="center">
+
+### Languages & Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp&theme=dark" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=github,git,vscode,linux,figma&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 WHAT I'M WORKING ON
+
+<div align="center">
+
+<img src="https://media1.tenor.com/m/QaNS1gOiNXAAAAAd/doraemon-nobita.gif" width="280" />
+
+</div>
+
+- 🌱 Improving my programming skills.
+- 🛠️ Creating personal projects.
+- 🎯 Learning new technologies.
+- 💡 Turning ideas into real projects.
+
+---
+
+## 🧩 MY PROJECTS
+
+<div align="center">
+
+| Project | Description |
 |:---|:---|
-| Web Development | HTML, CSS, JavaScript |
-| Programming | Python |
-| Computer Science | Core fundamentals |
-| Operating Systems | Linux |
-| Networking | Network fundamentals |
-| Cybersecurity | Digital security concepts |
-
----
-
-## DEVELOPMENT PHILOSOPHY
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-THINK-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/02-LEARN-172554?style=for-the-badge" />
-<img src="https://img.shields.io/badge/03-CREATE-1D4ED8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/04-IMPROVE-2563EB?style=for-the-badge" />
+| 🚀 Project One | Add your project description here |
+| 💻 Project Two | Add your project description here |
+| 🎨 Project Three | Add your project description here |
 
 </div>
 
----
-
 <div align="center">
-
-## 04 — THE NEXT CHAPTER
-
-### DREAM. CREATE. BUILD.
-
-<img src="https://images.unsplash.com/photo-1656643950245-ea965f500549?auto=format&fit=crop&w=1600&q=85" width="100%" alt="Blue futuristic 3D digital artwork" />
-
-<br/><br/>
 
 <a href="https://github.com/nobita-devcs?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 📊 GITHUB UNIVERSE
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nobita-devcs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobita-devcs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF" />
+
+<br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=nobita-devcs&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌈 MY PHILOSOPHY
+
+### DREAM BIG. STAY CURIOUS. KEEP BUILDING.
+
+<img src="https://media1.tenor.com/m/f9GoOKSs3g8AAAAd/hello-doraemon.gif" width="160" />
+
+<br/>
+
+**A little imagination can create a whole new world.**
+
+---
+
+## 📬 CONNECT WITH ME
+
+<a href="https://github.com/nobita-devcs">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=nobita-devcs&style=for-the-badge&color=2563EB&label=PROFILE+VISITS" />
+<img src="https://komarev.com/ghpvc/?username=nobita-devcs&label=PROFILE%20VISITORS&color=00BFFF&style=for-the-badge" />
 
 <br/><br/>
 
-### THANK YOU FOR VISITING.
+### 💙 THANKS FOR VISITING MY WORLD!
 
-`THINK` / `CREATE` / `BUILD` / `REPEAT`
+*See you on the next adventure.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:38BDF8,40:1D4ED8,75:0F172A,100:020617" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-Image credits: Unsplash contributors. Images used under the Unsplash License.
+<img src="https://media1.tenor.com/m/piukPnxZ8BAAAAAd/doraemon-nobita.gif" width="75%" />
 
 </div>
-
+```
 
 
 
