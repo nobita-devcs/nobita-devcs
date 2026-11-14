@@ -1,19 +1,19 @@
-markdown
+
 <div align="center">
 
-<img src="https://media1.tenor.com/m/QaNS1gOiNXAAAAAd/doraemon-nobita.gif" width="100%" />
+<img src="https://media1.tenor.com/m/SP5M5RGgdBcAAAAd/cool-handsome.gif" width="300" alt="Nobita" />
 
-# 🔵 NOBITA'S DIGITAL WORLD
+# N O B I T A
 
-### 夢を追いかける | Dream • Create • Build
+### THE DREAMER. THE CREATOR. THE DEVELOPER.
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=900&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+Nobita's+World;Inspired+by+Doraemon+%F0%9F%92%99;Developer+in+Progress;Dream+Big.+Build+Something+Amazing." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+digital+world.;Dream+it.+Design+it.+Build+it.;Turning+ideas+into+reality.;Always+learning.+Always+building." />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Doraemon%20World-00BFFF?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Developer-111827?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Always%20Learning-FFD700?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/FOCUS-CREATIVITY-0D1117?style=for-the-badge&labelColor=0284C7" />
+<img src="https://img.shields.io/badge/MINDSET-NEVER%20STOP-0D1117?style=for-the-badge&labelColor=0284C7" />
+<img src="https://img.shields.io/badge/STATUS-LEARNING-0D1117?style=for-the-badge&labelColor=0284C7" />
 
 </div>
 
@@ -21,65 +21,41 @@ markdown
 
 <div align="center">
 
-## 🌏 WELCOME TO MY WORLD
+## 01 / THE INTRODUCTION
 
-<img src="https://media1.tenor.com/m/piukPnxZ8BAAAAAd/doraemon-nobita.gif" width="75%" />
+### A little imagination. A limitless world.
 
-### "Every great journey begins with a dream."
+</div>
 
-Welcome to my little corner of the internet.
-A place where creativity meets technology,
-and imagination turns into code.
+Hi, I'm **Nobita** 👋
+
+I'm a developer in progress who enjoys exploring technology, learning new skills and creating things with code.
+
+- 💻 Exploring the world of programming.
+- 🚀 Building creative digital projects.
+- 🎯 Learning something new every day.
+- 🌌 Interested in technology and design.
+- ⚡ Turning imagination into reality.
+
+<div align="center">
+
+<img src="https://media1.tenor.com/m/72DlFN8v5A8AAAAd/nobita.gif" width="220" alt="Nobita animated GIF" />
 
 </div>
 
 ---
 
-## 💙 ABOUT ME
-
-<img align="right" src="https://media1.tenor.com/m/f9GoOKSs3g8AAAAd/hello-doraemon.gif" width="180" />
-
-- 👋 Hi, I'm **Nobita**.
-- 💻 I'm exploring the world of programming.
-- 🚀 I love building creative digital experiences.
-- 🎨 Interested in design, technology and development.
-- 🌱 Always learning something new.
-- 💙 Inspired by the world of Doraemon.
-
-<br clear="right"/>
-
----
-
 <div align="center">
 
-## 🧑‍🤝‍🧑 THE DORAEMON CREW
+## 02 / TECHNOLOGY
 
-*Every adventure is better with friends.*
+### My digital toolkit
 
-<img src="https://media1.tenor.com/m/Zx9lADqGh8oAAAAd/doraemon-nobita.gif" width="80%" />
-
-| Character | The Vibe |
-|:---:|:---|
-| 🔵 Doraemon | The ultimate problem solver |
-| 👓 Nobita | The dreamer |
-| 🌸 Shizuka | Kindness and positivity |
-| 💪 Gian | Confidence and courage |
-| 😎 Suneo | Style and creativity |
-| 💛 Dorami | Smart ideas and support |
-
-</div>
-
----
-
-## ⚡ MY TECH WORLD
-
-<div align="center">
-
-### Languages & Development
+<br/>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp&theme=dark" />
 
-### Tools & Platforms
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=github,git,vscode,linux,figma&theme=dark" />
 
@@ -87,54 +63,60 @@ and imagination turns into code.
 
 ---
 
-## 🚀 WHAT I'M WORKING ON
-
 <div align="center">
 
-<img src="https://media1.tenor.com/m/QaNS1gOiNXAAAAAd/doraemon-nobita.gif" width="280" />
+## 03 / CURRENT MISSION
 
 </div>
 
-- 🌱 Improving my programming skills.
-- 🛠️ Creating personal projects.
-- 🎯 Learning new technologies.
-- 💡 Turning ideas into real projects.
+| Mission | Status |
+|:---|:---|
+| Learning programming | In Progress |
+| Building projects | In Progress |
+| Improving problem solving | In Progress |
+| Exploring new technologies | In Progress |
 
 ---
 
-## 🧩 MY PROJECTS
-
 <div align="center">
+
+## 04 / SELECTED PROJECTS
+
+### Things I've built and explored
+
+</div>
 
 | Project | Description |
 |:---|:---|
-| 🚀 Project One | Add your project description here |
-| 💻 Project Two | Add your project description here |
-| 🎨 Project Three | Add your project description here |
-
-</div>
+| 🚀 Project One | Add your project description |
+| ⚡ Project Two | Add your project description |
+| 💻 Project Three | Add your project description |
 
 <div align="center">
 
 <a href="https://github.com/nobita-devcs?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-0284C7?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 📊 GITHUB UNIVERSE
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nobita-devcs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF" />
+## 05 / GITHUB ACTIVITY
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobita-devcs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF" />
+### My journey, one commit at a time.
 
 <br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=nobita-devcs&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nobita-devcs&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobita-devcs&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nobita-devcs&bg_color=0D1117&color=38BDF8&line=0284C7&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
@@ -142,37 +124,48 @@ and imagination turns into code.
 
 <div align="center">
 
-## 🌈 MY PHILOSOPHY
-
-### DREAM BIG. STAY CURIOUS. KEEP BUILDING.
-
-<img src="https://media1.tenor.com/m/f9GoOKSs3g8AAAAd/hello-doraemon.gif" width="160" />
+## 06 / THE MINDSET
 
 <br/>
 
-**A little imagination can create a whole new world.**
+### THINK DIFFERENT.
+### CREATE FEARLESSLY.
+### KEEP MOVING FORWARD.
+
+<br/>
+
+<img src="https://img.shields.io/badge/DREAM-38BDF8?style=flat-square" />
+<img src="https://img.shields.io/badge/CREATE-0284C7?style=flat-square" />
+<img src="https://img.shields.io/badge/BUILD-1E40AF?style=flat-square" />
+
+</div>
 
 ---
 
-## 📬 CONNECT WITH ME
+<div align="center">
+
+## 07 / CONNECT
 
 <a href="https://github.com/nobita-devcs">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=nobita-devcs&label=PROFILE%20VISITORS&color=00BFFF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=nobita-devcs&label=PROFILE%20VIEWS&color=0284C7&style=for-the-badge" />
 
 <br/><br/>
 
-### 💙 THANKS FOR VISITING MY WORLD!
+### THANK YOU FOR VISITING.
 
-*See you on the next adventure.*
+**This is just the beginning.**
 
-<img src="https://media1.tenor.com/m/piukPnxZ8BAAAAAd/doraemon-nobita.gif" width="75%" />
+<br/>
+
+<img src="https://media1.tenor.com/m/SP5M5RGgdBcAAAAd/cool-handsome.gif" width="220" alt="Nobita" />
 
 </div>
+
 
 
 
