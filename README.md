@@ -67,20 +67,34 @@ I'm passionate about technology, software development, computer science and cybe
 ## 🎯 My Goals
 
 - Become a skilled Web Developer.
-- Build real-world projects.
+- Build real-world projects.  
 - Improve my Computer Science knowledge.
 - Learn ethical and responsible cybersecurity.
 
 ---
+
+### 💙 Code. Learn. Explore. Secure
+
+**Thanks for visiting my profile!**
+
+</div>
+
 <div align="center">
 
 <img src="nobita-banner.png" width="100%" />
 
 </div>
 <div align="center">
+<div align="center">
 
-### 💙 Code. Learn. Explore. Secure.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Welcome+to+Nobita's+Profile;Aspiring+Web+Developer;Computer+Science+Student;Learning+Cybersecurity" />
 
-**Thanks for visiting my profile!**
+</div>
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nobita-devcs&theme=tokyo-night" width="100%" />
 
 </div>
