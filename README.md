@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Muzammil Khan
+# 👋 Hi, I'm Nobita
 
 ### 💻 Aspiring Web Developer | 🎓 CS Student | 🔐 Ethical Hacking Enthusiast
 
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Muzammil Khan**.
+Hello! I'm **Nobita**.
 
 I'm passionate about technology, software development, computer science and cybersecurity.
 
@@ -56,9 +56,9 @@ I'm passionate about technology, software development, computer science and cybe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muzammil-devcs&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=nobita-devcs&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-devcs&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobita-devcs&layout=compact&theme=tokyonight" />
 
 </div>
 
