@@ -1,8 +1,16 @@
+<!-- ================= HEADER ================= -->
+
 <div align="center">
 
-# 👋 Hi, I'm Nobita
+<img src="nobita-banner.png" width="100%" alt="Nobita Profile Banner" />
 
-### 💻 Aspiring Web Developer | 🎓 CS Student | 🔐 Ethical Hacking Enthusiast
+# 👋 Hi, I'm Nobita!
+
+### 💻 Aspiring Web Developer | 🎓 CS Student | 🔐 Cybersecurity Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Welcome+to+My+GitHub+Profile!;Aspiring+Web+Developer;Computer+Science+Student;Exploring+Cybersecurity;Always+Learning+Something+New!" />
+
+<br/>
 
 `Code` • `Learn` • `Explore` • `Secure`
 
@@ -10,27 +18,48 @@
 
 ---
 
+<!-- ================= ABOUT ME ================= -->
+
 ## 👨‍💻 About Me
 
 Hello! I'm **Nobita**.
 
 I'm passionate about technology, software development, computer science and cybersecurity.
 
-- 💻 Learning Web Development
-- 🎓 Exploring Computer Science
-- 🔐 Interested in Ethical Hacking
-- 🐧 Learning Linux and Networking
-- 🌱 Improving my technical skills every day
+- 💻 Currently learning Web Development.
+- 🎓 Exploring Computer Science.
+- 🔐 Interested in Ethical Hacking.
+- 🐧 Learning Linux and Networking.
+- 🌱 Improving my technical skills every day.
+- 🎯 Working towards becoming a skilled developer.
 
 ---
 
-## 💻 Development Skills
+<!-- ================= TECH STACK ================= -->
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-</p>
+## 💻 Languages & Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,linux" />
+
+</div>
 
 ---
+
+<!-- ================= TOOLS ================= -->
+
+## 🛠️ Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
+
+</div>
+
+---
+
+<!-- ================= COMPUTER SCIENCE ================= -->
 
 ## 🎓 Computer Science
 
@@ -39,8 +68,11 @@ I'm passionate about technology, software development, computer science and cybe
 - Computer Networks
 - Operating Systems
 - Data Structures & Algorithms
+- Database Fundamentals
 
 ---
+
+<!-- ================= CYBERSECURITY ================= -->
 
 ## 🔐 Cybersecurity Journey
 
@@ -49,45 +81,84 @@ I'm passionate about technology, software development, computer science and cybe
 - Cybersecurity Fundamentals
 - Web Security
 - Ethical Hacking Concepts
+- Online Safety and Digital Security
 
 ---
+
+<!-- ================= GITHUB STATS ================= -->
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nobita-devcs&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=nobita-devcs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobita-devcs&layout=compact&theme=tokyonight" />
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobita-devcs&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
 
 </div>
 
 ---
+
+<!-- ================= STREAK ================= -->
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=nobita-devcs&theme=tokyonight&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nobita-devcs&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+<!-- ================= GOALS ================= -->
 
 ## 🎯 My Goals
 
 - Become a skilled Web Developer.
-- Build real-world projects.  
+- Build real-world projects.
 - Improve my Computer Science knowledge.
 - Learn ethical and responsible cybersecurity.
+- Contribute to open-source projects.
+- Keep learning and growing.
 
 ---
 
-### 💙 Code. Learn. Explore. Secure
+<!-- ================= VISITOR COUNTER ================= -->
 
-**Thanks for visiting my profile!**
+## 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=nobita-devcs&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
+---
+
+<!-- ================= FOOTER ================= -->
+
 <div align="center">
 
-<img src="nobita-banner.png" width="100%" />
+### 💙 Code. Learn. Explore. Secure.
 
-</div>
-<div align="center">
-<div align="center">
+**Thanks for visiting my GitHub profile!**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Welcome+to+Nobita's+Profile;Aspiring+Web+Developer;Computer+Science+Student;Learning+Cybersecurity" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=120&section=footer" />
 
 </div>
 
