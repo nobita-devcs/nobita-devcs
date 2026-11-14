@@ -1,6 +1,6 @@
 <div align="center">
 
-![Nobita and Shizuka](https://wallpapers.com/images/hd/shizuka-doraemon-and-nobita-under-umbrella-ak41ovw4i56rdyfa.jpg)
+<img src="https://wallpapers.com/images/hd/shizuka-doraemon-and-nobita-under-umbrella-ak41ovw4i56rdyfa.jpg" width="100%" alt="Nobita and Shizuka Banner" />
 
 <br/>
 
@@ -8,7 +8,7 @@
 
 ### 💻 Aspiring Web Developer | 🎓 CS Student | 🔐 Cybersecurity Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Welcome+to+My+GitHub+Profile!;Aspiring+Web+Developer;Computer+Science+Student;Exploring+Cybersecurity;Always+Learning+Something+New!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Welcome+to+My+GitHub!;Aspiring+Web+Developer;Computer+Science+Student;Exploring+Cybersecurity;Always+Learning+New+Things!" alt="Typing SVG" />
 
 <br/>
 
@@ -22,22 +22,22 @@
 
 Hello! I'm **Nobita**.
 
-I'm passionate about technology, software development, computer science and cybersecurity.
+I'm passionate about technology, programming, computer science and cybersecurity.
 
-- 💻 Currently learning Web Development.
+- 💻 Learning Web Development.
 - 🎓 Exploring Computer Science.
 - 🔐 Interested in Ethical Hacking.
-- 🐧 Learning Linux and Networking.
-- 🌱 Improving my technical skills every day.
-- 🎯 Working towards becoming a skilled developer.
+- 🐧 Exploring Linux and Networking.
+- 🌱 Improving my programming skills.
+- 🎯 Building projects and learning new technologies.
 
 ---
 
-## 💻 Languages & Technologies
+## 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux&theme=dark" alt="Tech Stack" />
 
 </div>
 
@@ -47,7 +47,7 @@ I'm passionate about technology, software development, computer science and cybe
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows&theme=dark" alt="Development Tools" />
 
 </div>
 
@@ -59,7 +59,7 @@ I'm passionate about technology, software development, computer science and cybe
 - Programming Fundamentals
 - Computer Networks
 - Operating Systems
-- Data Structures & Algorithms
+- Data Structures and Algorithms
 - Database Fundamentals
 
 ---
@@ -79,11 +79,11 @@ I'm passionate about technology, software development, computer science and cybe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nobita-devcs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=nobita-devcs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobita-devcs&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobita-devcs&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
 
 </div>
 
@@ -93,7 +93,7 @@ I'm passionate about technology, software development, computer science and cybe
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nobita-devcs&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://streak-stats.demolab.com?user=nobita-devcs&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
 
 </div>
 
@@ -103,7 +103,7 @@ I'm passionate about technology, software development, computer science and cybe
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nobita-devcs&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nobita-devcs&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 
 </div>
 
@@ -124,22 +124,26 @@ I'm passionate about technology, software development, computer science and cybe
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=nobita-devcs&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=nobita-devcs&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
 ---
 
+## 💙 A Little Inspiration
+
 <div align="center">
 
-Artwork: [Nobita & Shizuka Wallpaper](https://wallpapers.com/wallpapers/shizuka-doraemon-and-nobita-under-umbrella-ak41ovw4i56rdyfa.html)
+*"Keep learning, keep building, and never give up!"*
 
-### 💙 Code. Learn. Explore. Secure.
+### Code. Learn. Explore. Secure.
 
 **Thanks for visiting my GitHub profile!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=120&section=footer" width="100%" alt="Blue Footer" />
 
 </div>
+
+
 
 
