@@ -1,10 +1,14 @@
-<!-- ================= HEADER ================= -->
+<!-- =============== NOBITA PROFILE HEADER =============== -->
 
 <div align="center">
 
-<img src="nobita-banner.png" width="100%" alt="Nobita Profile Banner" />
+<img src="https://wallpapers.com/images/hd/shizuka-doraemon-and-nobita-under-umbrella-ak41ovw4i56rdyfa.jpg"
+width="100%"
+alt="Nobita and Shizuka Anime Banner" />
 
-# 👋 Hi, I'm Nobita!
+<br/>
+
+# 💙 Hi, I'm Nobita!
 
 ### 💻 Aspiring Web Developer | 🎓 CS Student | 🔐 Cybersecurity Enthusiast
 
@@ -18,7 +22,7 @@
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
+<!-- =============== ABOUT ME =============== -->
 
 ## 👨‍💻 About Me
 
@@ -35,31 +39,31 @@ I'm passionate about technology, software development, computer science and cybe
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+<!-- =============== TECH STACK =============== -->
 
 ## 💻 Languages & Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux&theme=dark" />
 
 </div>
 
 ---
 
-<!-- ================= TOOLS ================= -->
+<!-- =============== DEVELOPMENT TOOLS =============== -->
 
 ## 🛠️ Development Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows&theme=dark" />
 
 </div>
 
 ---
 
-<!-- ================= COMPUTER SCIENCE ================= -->
+<!-- =============== COMPUTER SCIENCE =============== -->
 
 ## 🎓 Computer Science
 
@@ -72,7 +76,7 @@ I'm passionate about technology, software development, computer science and cybe
 
 ---
 
-<!-- ================= CYBERSECURITY ================= -->
+<!-- =============== CYBERSECURITY =============== -->
 
 ## 🔐 Cybersecurity Journey
 
@@ -85,7 +89,7 @@ I'm passionate about technology, software development, computer science and cybe
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
+<!-- =============== GITHUB STATISTICS =============== -->
 
 ## 📊 GitHub Statistics
 
@@ -101,7 +105,7 @@ I'm passionate about technology, software development, computer science and cybe
 
 ---
 
-<!-- ================= STREAK ================= -->
+<!-- =============== GITHUB STREAK =============== -->
 
 ## 🔥 GitHub Streak
 
@@ -113,7 +117,7 @@ I'm passionate about technology, software development, computer science and cybe
 
 ---
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
+<!-- =============== CONTRIBUTION GRAPH =============== -->
 
 ## 📈 Contribution Activity
 
@@ -125,7 +129,7 @@ I'm passionate about technology, software development, computer science and cybe
 
 ---
 
-<!-- ================= GOALS ================= -->
+<!-- =============== MY GOALS =============== -->
 
 ## 🎯 My Goals
 
@@ -138,7 +142,7 @@ I'm passionate about technology, software development, computer science and cybe
 
 ---
 
-<!-- ================= VISITOR COUNTER ================= -->
+<!-- =============== PROFILE VISITORS =============== -->
 
 ## 👀 Profile Visitors
 
@@ -150,7 +154,17 @@ I'm passionate about technology, software development, computer science and cybe
 
 ---
 
-<!-- ================= FOOTER ================= -->
+<!-- =============== IMAGE CREDIT =============== -->
+
+<div align="center">
+
+Artwork source: [Nobita & Shizuka Wallpaper](https://wallpapers.com/wallpapers/shizuka-doraemon-and-nobita-under-umbrella-ak41ovw4i56rdyfa.html)
+
+</div>
+
+---
+
+<!-- =============== FOOTER =============== -->
 
 <div align="center">
 
@@ -159,13 +173,5 @@ I'm passionate about technology, software development, computer science and cybe
 **Thanks for visiting my GitHub profile!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=120&section=footer" />
-
-</div>
-
-<div align="center">
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nobita-devcs&theme=tokyo-night" width="100%" />
 
 </div>
