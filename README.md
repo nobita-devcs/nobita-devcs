@@ -8,23 +8,23 @@
 
 ### 💻 Aspiring Web Developer | 🎓 CS Student | 🔐 Cybersecurity Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Welcome+to+My+GitHub!;Aspiring+Web+Developer;Computer+Science+Student;Exploring+Cybersecurity;Always+Learning+New+Things!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Welcome+to+My+GitHub!;Aspiring+Web+Developer;Computer+Science+Student;Exploring+Cybersecurity;Always+Learning+New+Things!" alt="Typing Animation" />
 
 <br/>
 
-`Code` • `Learn` • `Explore` • `Secure`
+`CODE` • `LEARN` • `EXPLORE` • `SECURE`
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 ABOUT ME
 
 Hello! I'm **Nobita**.
 
 I'm passionate about technology, programming, computer science and cybersecurity.
 
-- 💻 Learning Web Development.
+- 💻 Currently learning Web Development.
 - 🎓 Exploring Computer Science.
 - 🔐 Interested in Ethical Hacking.
 - 🐧 Exploring Linux and Networking.
@@ -33,27 +33,31 @@ I'm passionate about technology, programming, computer science and cybersecurity
 
 ---
 
-## 💻 Tech Stack
+## 💻 MY TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux&theme=dark" alt="Programming Skills" />
 
 </div>
 
 ---
 
-## 🛠️ Development Tools
+## 🛠️ DEVELOPMENT TOOLS
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows&theme=dark" alt="Development Tools" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 </div>
 
 ---
 
-## 🎓 Computer Science
+## 🎓 COMPUTER SCIENCE
 
 - Computer Fundamentals
 - Programming Fundamentals
@@ -64,7 +68,7 @@ I'm passionate about technology, programming, computer science and cybersecurity
 
 ---
 
-## 🔐 Cybersecurity Journey
+## 🔐 CYBERSECURITY JOURNEY
 
 - Linux Command Line
 - Networking Fundamentals
@@ -75,72 +79,41 @@ I'm passionate about technology, programming, computer science and cybersecurity
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 WHAT I'M WORKING TOWARDS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nobita-devcs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub Stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobita-devcs&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+| Goal | Focus |
+|:---|:---|
+| 💻 Web Development | Building websites |
+| 🐍 Programming | Improving coding skills |
+| 🎓 Computer Science | Learning core concepts |
+| 🔐 Cybersecurity | Understanding digital security |
+| 🌐 Open Source | Exploring community projects |
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 👀 PROFILE VISITORS
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nobita-devcs&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+<img src="https://komarev.com/ghpvc/?username=nobita-devcs&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Visitors" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nobita-devcs&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+### 💙 KEEP LEARNING. KEEP BUILDING.
 
-</div>
+**Code. Learn. Explore. Secure.**
 
----
+Thanks for visiting my GitHub profile!
 
-## 🎯 My Goals
-
-- Become a skilled Web Developer.
-- Build real-world projects.
-- Improve my Computer Science knowledge.
-- Learn ethical and responsible cybersecurity.
-- Contribute to open-source projects.
-- Keep learning and growing.
-
----
-
-## 👀 Profile Visitors
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=nobita-devcs&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
-</div>
-
----
-
-## 💙 A Little Inspiration
-
-<div align="center">
-
-*"Keep learning, keep building, and never give up!"*
-
-### Code. Learn. Explore. Secure.
-
-**Thanks for visiting my GitHub profile!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=120&section=footer" width="100%" alt="Blue Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=120&section=footer" width="100%" alt="Blue Footer Banner" />
 
 </div>
 
