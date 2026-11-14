@@ -72,7 +72,11 @@ I'm passionate about technology, software development, computer science and cybe
 - Learn ethical and responsible cybersecurity.
 
 ---
+<div align="center">
 
+<img src="nobita-banner.png" width="100%" />
+
+</div>
 <div align="center">
 
 ### 💙 Code. Learn. Explore. Secure.
