@@ -1,16 +1,82 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**meraj1988khan19-stack/meraj1988khan19-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Muzammil Khan
 
-Here are some ideas to get you started:
+### 💻 Aspiring Web Developer | 🎓 CS Student | 🔐 Ethical Hacking Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Code` • `Learn` • `Explore` • `Secure`
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Hello! I'm **Muzammil Khan**.
+
+I'm passionate about technology, software development, computer science and cybersecurity.
+
+- 💻 Learning Web Development
+- 🎓 Exploring Computer Science
+- 🔐 Interested in Ethical Hacking
+- 🐧 Learning Linux and Networking
+- 🌱 Improving my technical skills every day
+
+---
+
+## 💻 Development Skills
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 🎓 Computer Science
+
+- Computer Fundamentals
+- Programming Fundamentals
+- Computer Networks
+- Operating Systems
+- Data Structures & Algorithms
+
+---
+
+## 🔐 Cybersecurity Journey
+
+- Linux Command Line
+- Networking Fundamentals
+- Cybersecurity Fundamentals
+- Web Security
+- Ethical Hacking Concepts
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=muzammil-devcs&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-devcs&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🎯 My Goals
+
+- Become a skilled Web Developer.
+- Build real-world projects.
+- Improve my Computer Science knowledge.
+- Learn ethical and responsible cybersecurity.
+
+---
+
+<div align="center">
+
+### 💙 Code. Learn. Explore. Secure.
+
+**Thanks for visiting my profile!**
+
+</div>
